@@ -10,7 +10,7 @@ sudo dnf install vim-X11
 ```
 sudo apt install vim-gtk 
 
-Ou  
+Or
 
 sudo apt install vim-gnome 
 ```
